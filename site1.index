@@ -1,6 +1,7 @@
 <html>
     <body>
         <header>
+        <link rel="Stylesheet" href="style.css">
             <img src ="https://upload.wikimedia.org/wikipedia/ru/4/4e/Brawl_Stars.png" height="80px">
             <p>
                 <b>

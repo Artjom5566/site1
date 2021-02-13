@@ -1,0 +1,43 @@
+header{
+    text-align:center;
+    font-size:25px;
+}
+main{
+    text-align:left;
+}
+h4{
+    text-align:center;
+}
+footer h4{
+    font-size:15px;
+    text-align:left;
+    text-decoration:underline;
+    text-decoration-color:blue;
+    color:blue;
+}
+.a{
+    color:green;
+}
+
+.b{
+    color:blue;
+}
+.c{
+    color:blueviolet;
+}
+.d{
+    color:red;
+}
+.x{
+    color:#FFD700;
+}
+.y{
+    color:raindow;
+}
+.rainbow {
+background: linear-gradient(to right, red, #FF4500,#FFD700, #00FF00, cyan, blue, violet);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-size: 15px;
+line-height: 40px;
+}

@@ -41,3 +41,7 @@ background: linear-gradient(to right, red, #FF4500,#FFD700, #00FF00, cyan, blue,
 font-size: 15px;
 line-height: 40px;
 }
+footer a {
+border:2px solid black;
+text-decoration:none;
+}
